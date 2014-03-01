@@ -1,0 +1,7 @@
+This program finds anagrams for the word 'spare' given a list of words.
+
+To run:
+  bin/anagrams
+
+To run specs:
+  rspec
